@@ -1,0 +1,11 @@
+.buy-btn{
+text-decoration: none;
+color: black;
+}
+.by-btn-container{
+    padding: 2px 7px;
+}
+.buy-btn:hover{
+text-decoration: none;
+color: rgb(255, 255, 255);
+}

@@ -1,0 +1,37 @@
+.login-title{
+    text-align: center;
+    margin: 90px auto;
+}
+.containerLogin{
+    margin: 50px auto;
+    width: 300px;
+    background-color: rgb(186,181,253,0.5);
+    box-shadow: 0 0 10px ;
+    border-radius: 5px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerLogin input{
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+}
+.containerLogin button{
+    all: unset;
+    border: 1px solid #bab5fd;
+    padding: 5px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+    width: 50%;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+.containerLogin button:hover{
+    background-color: rgb(186,181,253);
+    color: white;
+    font-weight: bold;
+    
+}
