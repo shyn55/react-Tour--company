@@ -4,12 +4,12 @@ import "bootstrap/dist/css/bootstrap.rtl.min.css";
 import App from "./App";
 import "./index.css";
 import ThemeProvider from "react-bootstrap/ThemeProvider";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <ThemeProvider dir="rtl">
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   </ThemeProvider>,
 );
