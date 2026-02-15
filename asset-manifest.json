@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/shyn55/react-Tour--company.git/static/css/main.c79f6540.css",
-    "main.js": "/shyn55/react-Tour--company.git/static/js/main.12e768f7.js",
-    "static/media/photo_2025-10-17_12-26-50.png": "/shyn55/react-Tour--company.git/static/media/photo_2025-10-17_12-26-50.4590f101e5e92ee4c369.png",
-    "static/media/masole.png": "/shyn55/react-Tour--company.git/static/media/masole.cc23b4a1e159a779d009.png",
-    "static/media/mashhad.png": "/shyn55/react-Tour--company.git/static/media/mashhad.4626e670e8ab1931f866.png",
-    "static/media/kish.png": "/shyn55/react-Tour--company.git/static/media/kish.3e19f714c76380c5a048.png",
-    "static/media/esfahan.png": "/shyn55/react-Tour--company.git/static/media/esfahan.a2a520f941a1eac2311e.png",
-    "static/media/undraw_winter-walk_m5sd.svg": "/shyn55/react-Tour--company.git/static/media/undraw_winter-walk_m5sd.40b402b7235cd57d93d724e24b9c2f54.svg",
-    "index.html": "/shyn55/react-Tour--company.git/index.html",
-    "main.c79f6540.css.map": "/shyn55/react-Tour--company.git/static/css/main.c79f6540.css.map",
-    "main.12e768f7.js.map": "/shyn55/react-Tour--company.git/static/js/main.12e768f7.js.map"
+    "main.css": "/react-Tour--company/static/css/main.c79f6540.css",
+    "main.js": "/react-Tour--company/static/js/main.fbd07ed6.js",
+    "static/media/photo_2025-10-17_12-26-50.png": "/react-Tour--company/static/media/photo_2025-10-17_12-26-50.4590f101e5e92ee4c369.png",
+    "static/media/masole.png": "/react-Tour--company/static/media/masole.cc23b4a1e159a779d009.png",
+    "static/media/mashhad.png": "/react-Tour--company/static/media/mashhad.4626e670e8ab1931f866.png",
+    "static/media/kish.png": "/react-Tour--company/static/media/kish.3e19f714c76380c5a048.png",
+    "static/media/esfahan.png": "/react-Tour--company/static/media/esfahan.a2a520f941a1eac2311e.png",
+    "static/media/undraw_winter-walk_m5sd.svg": "/react-Tour--company/static/media/undraw_winter-walk_m5sd.40b402b7235cd57d93d724e24b9c2f54.svg",
+    "index.html": "/react-Tour--company/index.html",
+    "main.c79f6540.css.map": "/react-Tour--company/static/css/main.c79f6540.css.map",
+    "main.fbd07ed6.js.map": "/react-Tour--company/static/js/main.fbd07ed6.js.map"
   },
   "entrypoints": [
     "static/css/main.c79f6540.css",
-    "static/js/main.12e768f7.js"
+    "static/js/main.fbd07ed6.js"
   ]
 }
