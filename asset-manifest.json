@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-Tour--company/static/css/main.c79f6540.css",
-    "main.js": "/react-Tour--company/static/js/main.fbd07ed6.js",
+    "main.js": "/react-Tour--company/static/js/main.ac316dab.js",
     "static/media/photo_2025-10-17_12-26-50.png": "/react-Tour--company/static/media/photo_2025-10-17_12-26-50.4590f101e5e92ee4c369.png",
     "static/media/masole.png": "/react-Tour--company/static/media/masole.cc23b4a1e159a779d009.png",
     "static/media/mashhad.png": "/react-Tour--company/static/media/mashhad.4626e670e8ab1931f866.png",
@@ -10,10 +10,10 @@
     "static/media/undraw_winter-walk_m5sd.svg": "/react-Tour--company/static/media/undraw_winter-walk_m5sd.40b402b7235cd57d93d724e24b9c2f54.svg",
     "index.html": "/react-Tour--company/index.html",
     "main.c79f6540.css.map": "/react-Tour--company/static/css/main.c79f6540.css.map",
-    "main.fbd07ed6.js.map": "/react-Tour--company/static/js/main.fbd07ed6.js.map"
+    "main.ac316dab.js.map": "/react-Tour--company/static/js/main.ac316dab.js.map"
   },
   "entrypoints": [
     "static/css/main.c79f6540.css",
-    "static/js/main.fbd07ed6.js"
+    "static/js/main.ac316dab.js"
   ]
 }
